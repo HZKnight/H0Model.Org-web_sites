@@ -1,0 +1,4 @@
+[submodule "h0model.Org_template"]
+	path = h0model.Org_template
+	url = https://github.com/HZKnight/h0model.Org_template.git
+	branch = H0Model.Org
